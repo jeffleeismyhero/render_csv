@@ -1,7 +1,11 @@
 # Changelog
 
+## 2.1.0
+
+ * Support for custom header row
+
 ## 2.1.0 (Beta)
- 
+
  * Support rendering objects that already respond to `to_csv`
 
 ## 2.0.0
